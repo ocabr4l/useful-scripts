@@ -1,5 +1,5 @@
 # Script for raspberry pi backups purpoise. Can be used for image backup on almost any Linux machine
-# Script created by Jac user on https://www.raspberrypi.org/forums/viewtopic.php?p=136912
+# Script created by Jaac user on https://www.raspberrypi.org/forums/viewtopic.php?p=136912
 #
 # Setting up directories
 # 
