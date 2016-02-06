@@ -1,4 +1,4 @@
-etting up directories
+# Setting up directories
 SUBDIR=raspberrypi_backups
 DIR=/media/networkshare/$SUBDIR
 
