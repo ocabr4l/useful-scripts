@@ -1,4 +1,8 @@
+# Script for raspberry pi backups purpoise. Can be used for image backup on almost any Linux machine
+# Script created by Jac user on https://www.raspberrypi.org/forums/viewtopic.php?p=136912
+#
 # Setting up directories
+# 
 SUBDIR=raspberrypi_backups
 DIR=/media/networkshare/$SUBDIR
 
