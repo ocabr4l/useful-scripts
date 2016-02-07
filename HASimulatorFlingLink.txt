@@ -1,1 +1,3 @@
+# Use this link for performing HA what if scenarios
+
 http://hasimulator.vmware.com/html/index.html#/summary
